@@ -1,5 +1,4 @@
-pandas
+argparse
+numpy
 matplotlib
-astroquery
 tensorflow
-IPython

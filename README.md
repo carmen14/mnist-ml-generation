@@ -1,4 +1,4 @@
-# MNIST Machine Learning Synthetic Data Generation: DGAN, VAE, and DDPM
+# MNIST Machine Learning Synthetic Data Generation
 
 This repository demonstrates three different generative model families: GANs, Variational Autoencoders, and Diffusion Models for creating synthetic MNIST images.  
 

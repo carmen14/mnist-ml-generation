@@ -12,9 +12,9 @@ import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
 
-from dcgan_ml_model_tf import DCGAN
-from vae_ml_model_tf import VAE
-from ddpm_ml_model_tf import SimpleDDPM
+from models.dcgan_ml_model_tf import DCGAN
+from models.vae_ml_model_tf import VAE
+from models.ddpm_ml_model_tf import SimpleDDPM
 
 def load_dataset(batch_size: int):
     """Load and preprocess MNIST dataset."""
